@@ -2,6 +2,7 @@
   "name": "01_lesson",
   "version": "0.1.0",
   "private": true,
+  "nodeversion": "v18.17.1",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
